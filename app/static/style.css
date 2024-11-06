@@ -1,0 +1,31 @@
+/* app/static/style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+input {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
